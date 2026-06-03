@@ -27,6 +27,7 @@ Interpretador é um sosftware que recebe uma linguagem de Alto Nível (HIGH LEVE
 
 # JAVASCRIPT
 É possível rodar o javascript de duas formas:
+
     ** Modo Script (Script Mode)
     - O código é escrito em um ficheiro e salvo antes de ser executado;
     - É usado para escrever e executar programas extensos (grandes);
@@ -38,3 +39,27 @@ Interpretador é um sosftware que recebe uma linguagem de Alto Nível (HIGH LEVE
     - Usado para testar pequenos pedaços de códgo;
     - Não é preciso salvar, o código é executado imediatamente;
     - A saída é mostrada imendiatamente após cada linha executada. 
+
+
+# OPERADORES
+- Quando comparamos (==) uma string com um número, o javascript automaticamente converte a string em um número. Isso se chama de "Implicit Conversion" ou "Implicit Type Casting" ou ainda "Type Coercion".
+
+# CONTROL STRUCTURES IN PROGRAMMING
+
+    ** Conditional Statements
+        - if statement
+        - if...else statement
+        - if...else if...else statement
+        - switch statement
+        - ternary operator (condition ? true : false)
+        - comparision operators (==, !=, ===, !==, >, >=, <, <=)
+
+
+    ** Loops
+        - for loop
+        - while loop
+        - do...while loop
+        - for...of loop (arrays/iterables)
+        - for...in loop (objects)
+        - nested loops
+        - loop control
